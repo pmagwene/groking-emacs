@@ -21,6 +21,11 @@ If you're stuck at a prompt or there's a long running process you can try the fo
  * C-l clear screen and redisplay text (cycle cursor center->top->bottom)
  * M-> move to end of document
  * M-< move to beginning of document
+ 
+# Examining values of variables
+  
+ * To find what value a variable is set to do: C-h v varname RET
+ * To set value of a variable: M-x set-variable RET var RET value RET
 
 
 # Getting help
