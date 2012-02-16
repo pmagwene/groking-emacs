@@ -1,8 +1,27 @@
-
 # Terminology
 
  * C-x -- ctrl-x
  * M-x -- "meta"-x (Esc)
+
+# Help! I'm stuck
+
+If you're stuck at a prompt or there's a long running process you can try the following:
+
+ * Repeatedly type C-g
+ * Hit the Esc key multiple times
+
+# How do I quit?
+
+ * C-x C-c (or command-Q on OS X gui version)
+
+# Some useful commands
+
+ * C-v move forward one screen
+ * M-v move backward one screen
+ * C-l clear screen and redisplay text (cycle cursor center->top->bottom)
+ * M-> move to end of document
+ * M-< move to beginning of document
+
 
 # Getting help
 
