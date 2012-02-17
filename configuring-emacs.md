@@ -15,4 +15,5 @@
  
 # Nice examples of Emacs setups
 
- * <https://github.com/al3x/emacs>
+* <https://github.com/al3x/emacs>
+
