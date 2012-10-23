@@ -1,0 +1,31 @@
+* Variance in growth rate/stres-resistance
+
+* Covariance between age and growth 
+This seems similar to the idea of healthspan: how rapidly are you reproducing at a particular age?
+- Do genes that affect lifespan show a decreased reproduction at later times?
+- Can we detect the effects of caloric restriction?
+* Covariance of age and stress resistance
+- Does the assay identify mutants with decreased resistance to stress?
+- Does the assay detect increased expression of Tsl1 in older cells?
+* Covariance between growth and stress resistance
+- Does Tsl1 expression correlate with slower growth?
+- When you heat-shock cells, there will be variability in response. Are the genes with the highest response the slowest growing?
+
+* Define network of covariates with growth
+Screen GFP library for genes that co-vary with growth. Subsequently, look for paired correlations between genes. Are there modules of genes that are co-expressed in fast-growing cells, or is there just one module?
+
+* trans-effects on covariates of age, growth and stress-resistance
+** Gene expression
+** Carbohydrates
+- (Absorption based stains may be able to be used, but would require testing. Also, there's the ImageStream.)
+- Does BODIPY stain anything in yeast?
+- Lugol's solution?
+** Metabolic stains
+- Mitochondria?
+- Vacuoles?
+
+* PKA and growth
+- Do higher or lower signalling levels give rise to greater variability in growth?
+
+* Intrinsic/extrinsic noise
+- How much extrinsic noise is explained by growth rate? Age?
